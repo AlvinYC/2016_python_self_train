@@ -1,0 +1,28 @@
+cotana gallery
+
+https://1drv.ms/f/s!AjhofhwS2b1_gudfD0_0-bGgg5M2qA
+
+詳細資訊:
+活動名稱: 大數據與互聯網 Azure 實務一日營
+活動時間: 2016/11/4 (五) 09:20-18:30 (09:00 開始報到)
+活動地點: 台灣微軟辦公室 19F POC 2 (台北市信義區忠孝東路五段68號19樓)
+附件: 如何進入台灣微軟辦公室 流程
+備註: 本活動備有午餐
+
+課前準備:
+1.       請準備貴公司的Azure帳號, 當天各位必須使用貴公司的 Azure 帳號實作內容
+a.       申請Power BI (Optional) (https://powerbi.microsoft.com/en-us/ )
+2.       請自備電腦 (如果當天無法自備電腦, 請在Azure開 Windows VM 並安裝好下列軟體在 VM, 我們有環境讓各位上網連線 Azure VM)
+3.       上課前環境必須安裝完成:
+‧       Azure Storage Explorer  (http://storageexplorer.com/ )
+‧       PuTTY  (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html )
+‧       R Studio  (https://www.rstudio.com/products/rstudio/download/ )
+‧       Visual Studio 2015 Enterprise trial (https://www.visualstudio.com/downloads/ )
+‧       (使用 Web Platform Installer Microsoft Azure SDK for .NET (VS 2015) 更新到最新) 
+‧       SQL Server Data Tools for Visual Studio 2015  (https://msdn.microsoft.com/library/mt204009.aspx )
+Optional:
+‧       Azcopy  (https://azure.microsoft.com/en-us/documentation/articles/storage-use-azcopy/ )
+‧       Azure Power shell  (https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/ )
+
+有任何問題歡迎詢問 Justin Li (jusl@microsoft.com)
+

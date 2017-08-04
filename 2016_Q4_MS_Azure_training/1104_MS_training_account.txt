@@ -1,0 +1,52 @@
+1. service bug --> event hub : AzureTrain1104
+2. steram analysis ->  AzureStream1104
+                       storage1104
+
+
+event hub
+iot hub 
+差異是event hub是單向, iot hub是雙向
+
+
+telcodatagen.exe 1000 .2 1
+一個小時內輸入1000筆資料, 有2成是詐欺資料
+
+HDinsight
+
+cluster name
+alvinhdidemo1104
+
+admin/Pp@7788123
+SSH
+AlvinSSH_USERNAME/Pp@7788123
+
+Data Source
+storage account: alvindatasource
+alvincontainer
+
+Alvin_new_group
+
+
+
+EVENT HUB
+=========================================
+bus : Service Bus
+NameSpace: AzureJsonEventHub
+event hub name: jsonevent1
+=========================================
+Stream Analsis
+NameSpace: jsonstream02, jsoncollect
+name: StreamJob1 / JSON/ from jsonevent1
+name: job02 / JSON/ from jsonevent1
+=========================================
+power bi
+output alias; josnoutput
+dataset name: job02db
+table name: job02table
+
+
+Data warehouse
+database name: sqldb_alvin
+server_name: dbserver101
+server admin login:alvin
+password: Pp@7788123
